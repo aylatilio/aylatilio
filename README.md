@@ -1,9 +1,9 @@
-🎓 BSc in Computer Science | Process Automation | System Integration | Project Management
+🎓 BSc in Computer Science | Development | Process Automation | System Integration | Project Management
 
-🚀 Passionate about automation, development, and system integration, with hands-on experience in process automation, workflow optimization, and operational support.
+🚀 Passionate about development, videogames, technology & innovation, with hands-on experience in process automation, workflow optimization and project management.
 
-💡 Skilled in developing and integrating tools to improve efficiency and drive business results. Always eager to learn and explore new technologies.
+💡 Skilled in developing and integrating tools to improve efficiency and drive business results. Always eager to learn and explore new technologies!
 
-🔧 Tech Stack: Python, PowerShell, Java (learning), Shell Script, HTML, JavaScript, C, Fortran
+🔧 Tech Stack: Java, Python, PowerShell, HTML, JavaScript, C, MySQL, Fortran, LaTeX.
 
 📫 Let’s connect!

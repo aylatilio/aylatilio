@@ -1,6 +1,6 @@
 🎓 BSc in Computer Science | Development | Process Automation | System Integration | Project Management
 
-🚀 Passionate about development, videogames, technology & innovation, with hands-on experience in process automation, workflow optimization and project management.
+🚀 Passionate about music, videogames, development, technology & innovation, with hands-on experience in process automation, workflow optimization and project management.
 
 💡 Skilled in developing and integrating tools to improve efficiency and drive business results. Always eager to learn and explore new technologies!
 

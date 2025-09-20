@@ -6,7 +6,7 @@
 
 💡 Skilled in developing and integrating tools to improve efficiency and deliver real business value. Code is not just instructions for machines — it's how we turn ideas into impact. 
 
-# Simple code. Real impact.
+**Simple code. Real impact.**
 
 ---
 

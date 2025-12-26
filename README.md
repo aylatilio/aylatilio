@@ -8,12 +8,6 @@
 
 **Simple code. Real impact.**
 
-![Status](https://img.shields.io/badge/status-WIP-orange?style=for-the-badge)
-![Stage](https://img.shields.io/badge/stage-beta-blueviolet)
-![Dev](https://img.shields.io/badge/under%20development-yes-red)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
 ---
 
 ## 🔧 Tech Stack  

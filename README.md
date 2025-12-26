@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats  
 
-![Ayla’s GitHub stats](https://github-readme-stats.vercel.app/api?username=aylatilio&show_icons=true&theme=default)  
+[![Ayla’s GitHub stats](https://github-readme-stats.vercel.app/api?username=aylatilio&show_icons=true&theme=default)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aylatilio&layout=compact&theme=default)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aylatilio&layout=compact&theme=default)]
 
 ---
 
